@@ -1,1 +1,1 @@
-In this Project, I use a decision learning algorithm to a build drug prediction model. This classification algorithm is used to build a model from historical data of patients, and their response to different medications with the accuracy of 98%.
+In this Project, I use a decision learning algorithm to a build drug prediction model. This classification algorithm is used to build a model from historical data of patients, and their response to different medications. The accuracy of this classification model is 98%.
